@@ -34,6 +34,8 @@ This gets all the main tools loaded up quickly!
 
 The default terminal is okay, but we can do *so* much better with Oh My Zsh and the Powerlevel10k theme.
 
+Note: If I'm not using zsh in the different server. I've put my fav .bashrc file!! It's awesome! 
+
 1.  **Install Oh My Zsh:**
     ```bash
     sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
