@@ -30,6 +30,11 @@ brew install --cask alt-tab bartender basictex hiddenbar iterm2 jan maccy notune
 
 This gets all the main tools loaded up quickly!
 
+```bash
+#faster dock!
+defaults write com.apple.dock autohide-delay -float 0; defaults write com.apple.dock autohide-time-modifier -int 0; killall Dock
+```
+
 ## Step 3: Make Your Terminal Awesome (Zsh + P10k) 😎
 
 The default terminal is okay, but we can do *so* much better with Oh My Zsh and the Powerlevel10k theme.
