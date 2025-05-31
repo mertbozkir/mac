@@ -12,6 +12,11 @@ First, we need **Homebrew**. It's like the magic wand for installing developer t
 
 Just follow the prompts, it's pretty straightforward. You might need to run a couple of commands it gives you at the end to finalize the setup.
 
+important!
+after zsh install zsh-autosuggestions!
+
+`https://github.com/zsh-users/zsh-syntax-highlighting`
+
 ## Step 2: Install apps with brew --cask! ✨
 
 Now for the fun part! Homebrew can install all those useful graphical apps too. Just copy and paste this big command into your terminal:
